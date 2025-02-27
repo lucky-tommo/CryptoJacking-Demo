@@ -24,7 +24,6 @@ cryptojacking_template = '''
             justify-content: center;
             align-items: center;
             min-height: 60vh;
-            background-image: url('/static/cyberpunk2077.jpg');
             background-size: cover;
             background-position: center;
         }
